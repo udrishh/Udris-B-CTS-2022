@@ -8,3 +8,4 @@ Lab 05: Builder, Facade, Adapter<br>
 Lab 06: Composite, Decorator, Proxy<br>
 Lab 07: Observer, Flyweight, Strategy<br>
 Lab 08: Template, Chain of Responsability, Memento<br>
+Lab 09: State, Command
